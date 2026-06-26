@@ -1,0 +1,9 @@
+build/
+dist/
+*.class
+*.jar
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+*.log
+*.tmp
